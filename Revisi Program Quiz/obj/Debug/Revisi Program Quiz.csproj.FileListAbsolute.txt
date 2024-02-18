@@ -1,0 +1,29 @@
+D:\FILE KULIAH\JURUSAN\Pemrogaman\Projects\Revisi Program Quiz\Revisi Program Quiz\bin\Debug\Revisi Program Quiz.exe.config
+D:\FILE KULIAH\JURUSAN\Pemrogaman\Projects\Revisi Program Quiz\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.csprojResolveAssemblyReference.cache
+D:\FILE KULIAH\JURUSAN\Pemrogaman\Projects\Revisi Program Quiz\Revisi Program Quiz\obj\Debug\Revisi_Program_Quiz.Form1.resources
+D:\FILE KULIAH\JURUSAN\Pemrogaman\Projects\Revisi Program Quiz\Revisi Program Quiz\obj\Debug\Revisi_Program_Quiz.Properties.Resources.resources
+D:\FILE KULIAH\JURUSAN\Pemrogaman\Projects\Revisi Program Quiz\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.csproj.GenerateResource.Cache
+D:\FILE KULIAH\JURUSAN\Pemrogaman\Projects\Revisi Program Quiz\Revisi Program Quiz\bin\Debug\Revisi Program Quiz.exe
+D:\FILE KULIAH\JURUSAN\Pemrogaman\Projects\Revisi Program Quiz\Revisi Program Quiz\bin\Debug\Revisi Program Quiz.pdb
+D:\FILE KULIAH\JURUSAN\Pemrogaman\Projects\Revisi Program Quiz\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.exe
+D:\FILE KULIAH\JURUSAN\Pemrogaman\Projects\Revisi Program Quiz\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.pdb
+C:\Users\lenovo\Music\Revisi Program Quiz_edit\Revisi Program Quiz\bin\Debug\Revisi Program Quiz.exe.config
+C:\Users\lenovo\Music\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.exe
+C:\Users\lenovo\Music\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.pdb
+C:\Users\lenovo\Music\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Music\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi_Program_Quiz.Form1.resources
+C:\Users\lenovo\Music\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi_Program_Quiz.Properties.Resources.resources
+C:\Users\lenovo\Music\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.csproj.GenerateResource.Cache
+C:\Users\lenovo\Music\Revisi Program Quiz_edit\Revisi Program Quiz\bin\Debug\Revisi Program Quiz.exe
+C:\Users\lenovo\Music\Revisi Program Quiz_edit\Revisi Program Quiz\bin\Debug\Revisi Program Quiz.pdb
+C:\Users\lenovo\Music\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Revisi Program Quiz_edit\Revisi Program Quiz_edit\Revisi Program Quiz\bin\Debug\Revisi Program Quiz.exe.config
+C:\Users\USER\Desktop\Revisi Program Quiz_edit\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Revisi Program Quiz_edit\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.exe
+C:\Users\USER\Desktop\Revisi Program Quiz_edit\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.pdb
+C:\Users\USER\Desktop\Revisi Program Quiz_edit\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Revisi Program Quiz_edit\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi_Program_Quiz.Form1.resources
+C:\Users\USER\Desktop\Revisi Program Quiz_edit\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi_Program_Quiz.Properties.Resources.resources
+C:\Users\USER\Desktop\Revisi Program Quiz_edit\Revisi Program Quiz_edit\Revisi Program Quiz\obj\Debug\Revisi Program Quiz.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Revisi Program Quiz_edit\Revisi Program Quiz_edit\Revisi Program Quiz\bin\Debug\Revisi Program Quiz.exe
+C:\Users\USER\Desktop\Revisi Program Quiz_edit\Revisi Program Quiz_edit\Revisi Program Quiz\bin\Debug\Revisi Program Quiz.pdb
