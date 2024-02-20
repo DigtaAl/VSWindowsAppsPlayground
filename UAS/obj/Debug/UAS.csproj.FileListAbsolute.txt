@@ -1,0 +1,24 @@
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\bin\Debug\UAS.exe.config
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\bin\Debug\UAS.exe
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\bin\Debug\UAS.pdb
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\obj\Debug\UAS.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\obj\Debug\UAS.KodeWarnaResistor.resources
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\obj\Debug\UAS.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\obj\Debug\UAS.exe
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\obj\Debug\UAS.pdb
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\obj\Debug\UAS.KodeWarnaInduktor.resources
+c:\users\user\documents\visual studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Kalkulator.resources
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\bin\Debug\UAS.exe.config
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\obj\Debug\UAS.exe
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\obj\Debug\UAS.pdb
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\bin\Debug\UAS.exe
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\bin\Debug\UAS.pdb
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\obj\Debug\UAS.csprojResolveAssemblyReference.cache
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\obj\Debug\UAS.Form1.resources
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\obj\Debug\UAS.Kalkulator.resources
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\obj\Debug\UAS.KodeWarnaInduktor.resources
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\obj\Debug\UAS.KodeWarnaResistor.resources
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\obj\Debug\UAS.Properties.Resources.resources
+D:\DIGTA\Tugas Kuliah\SEMESTER 1\PRAKTIK PEMROGRAMAN KOMPUTER\Project\UAS\UAS\obj\Debug\UAS.csproj.GenerateResource.Cache
