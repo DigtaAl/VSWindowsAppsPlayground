@@ -1,13 +1,12 @@
-# Windows Quiz Application
+# Windows TrafficLight Application
 
 ## Overview
-This Windows Desktop Application is a quiz platform that offers various quiz options. Users can choose from different quiz categories, and the quiz numbers are randomized to provide a unique set of questions for each user. Additionally, users can review their answers to see if they were correct or incorrect.
+The Windows Traffic Light Simulator is a desktop application that simulates the operation of a traffic light system. The simulation includes a continuous looping sequence of traffic lights and a visual representation of a car passing through when the light is green.
 
 ## Features
-- Multiple quiz categories to choose from.
-- Randomized quiz numbers for a diverse quiz experience.
-- Instant feedback on correct and incorrect answers.
-- User-friendly interface for seamless navigation.
+- Realistic traffic light simulation with a continuous loop.
+- Visual representation of a car passing through the intersection during the green light phase.
+- User-friendly interface for easy interaction.
 
 ## Requirements
 - Windows operating system
@@ -16,15 +15,11 @@ This Windows Desktop Application is a quiz platform that offers various quiz opt
 ## How to Use
 - **Clone this repository to your local machine.
 
-- **Select your desired quiz category and start answering randomized questions.
-
-- **After completing the quiz, review your answers to see the correct and incorrect ones.
-
 - **Open the solution in Visual Studio.
 
-- **Build and run the application.
+- **Observe the continuous looping sequence of the traffic lights.
 
-- **Select your desired quiz category and start answering randomized questions.
+- **During the green light phase, a car will be visually represented passing through the intersection.
 
 ## Contributors
 
